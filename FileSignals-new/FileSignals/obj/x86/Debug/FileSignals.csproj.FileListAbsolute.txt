@@ -1,0 +1,45 @@
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\MainWindow.baml
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\MainWindow.g.cs
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\App.g.cs
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\FileSignals_MarkupCompile.cache
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\FileSignals.g.resources
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\FileSignals.Properties.Resources.resources
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\bin\Debug\FileSignals.exe
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\bin\Debug\FileSignals.pdb
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\FileSignals.exe
+C:\Users\baadshah\Documents\Visual Studio 2010\Projects\FileSignals\FileSignals\obj\x86\Debug\FileSignals.pdb
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\FileSignals.exe
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\FileSignals.pdb
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\bin\Debug\FileSignals.exe
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\bin\Debug\FileSignals.pdb
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\MainWindow.baml
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\MainWindow.g.cs
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\App.g.cs
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\FileSignals_MarkupCompile.cache
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\FileSignals.g.resources
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\FileSignals.Properties.Resources.resources
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\baadshah\Desktop\FileSignals\FileSignals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\FileSignals.exe
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\FileSignals.pdb
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\MainWindow.baml
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\MainWindow.g.cs
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\App.g.cs
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\FileSignals_MarkupCompile.cache
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\FileSignals.g.resources
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\FileSignals.Properties.Resources.resources
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\bin\Debug\FileSignals.exe
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\bin\Debug\FileSignals.pdb
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\Help.baml
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\Help.g.cs
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\bin\Debug\FileSignals.exe.manifest
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\bin\Debug\FileSignals.application
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\FileSignals.exe.manifest
+C:\Users\baadshah\Desktop\FileSignals-new\FileSignals\obj\x86\Debug\FileSignals.application
